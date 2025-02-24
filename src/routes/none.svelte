@@ -24,7 +24,7 @@
 		<br />SvelteKit app
 		<br />tapi kan
 	</h1>
-	<h1>Testing the color out here but it seems doesnt change at all</h1>
+	<h1>Testing the color out here but it seems doesnt change at all testing commit two </h1>
 	<Counter />
 </section>
 

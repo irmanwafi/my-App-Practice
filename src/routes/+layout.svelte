@@ -15,7 +15,7 @@
 	<footer>
 		<p>
 			visit <a href="https://svelte.dev/docs/kit">svelte.ddev/docs/kit</a> 
-			to learn about SvelteKit take me take me
+			to learn about SvelteKit take me take me Take me there please this is commit
 			<b> wow </b>
 		</p>
 	</footer>

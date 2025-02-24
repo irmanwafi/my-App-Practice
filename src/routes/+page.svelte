@@ -1,6 +1,6 @@
 <script>
 	// JavaScript: Define a title and description for the card
-	let title = "Flexbox Cardio";
+	let title = "This is FlexBox but i dont know what is this about";
 	let description = "This is an example of a centered card using flexbox.";
 </script>
 
